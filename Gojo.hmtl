@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kaeden's Page</title>
+</head>
+<body>
+<h1 style="font-size:60px;">Kaeden Parra</h1>
+<p>This is my web portfolio. My hobbies are eating, breathing, and sleeping. </p>
+<p>My favorite activities are also playing video games or relaxing outside. </p>
+<a href="https://www.ub.edu.bz/">This is where i want to go to school</a>
+
+
+<a href="https://www.youtube.com/"> This is my favorite website</a>
+
+
+<p>I want to study medicine to become a doctor. </p>
+
+
+<img src="image cat.JPG" alt="Silly Cat"> 
+<style>
+body {
+
+  background-image: url('gojo sky.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+<p>Some things I like to do are: </p
+
+<ul>
+  <li>PLay Games</li>
+  <li>PLay outside</li>
+  <li>Watch youtube</li>
+</ul>
+</style>
+</body>
+</html
